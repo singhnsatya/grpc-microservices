@@ -1,0 +1,23 @@
+{
+  "name": "grpc-microservices",
+  "version": "1.0.0",
+  "description": "\"# grpc-microservices\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhnsatya/grpc-microservices.git"
+  },
+  "author": "Satyanarayan Singh <singhnsatya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singhnsatya/grpc-microservices/issues"
+  },
+  "homepage": "https://github.com/singhnsatya/grpc-microservices#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.0",
+    "grpc": "^1.20.3"
+  }
+}
